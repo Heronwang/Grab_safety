@@ -37,8 +37,8 @@ Open the .ipynb file named `final_code.ipynb`. Run the code. Environment require
 
 - **library versions**    
     
-scipy: 0.19.1    
-numpy: 1.14.2    
-pandas: 0.20.3    
-sklearn: 0.20.0    
-matplotlib: 2.1.0  
+  scipy: 0.19.1    
+  numpy: 1.14.2    
+  pandas: 0.20.3    
+  sklearn: 0.20.0    
+  matplotlib: 2.1.0  
