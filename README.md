@@ -5,11 +5,11 @@ https://drive.google.com/file/d/14zeTMn67k7W1dLmlCVEr-npfOLAKKucn/view?usp=shari
         
 for the workable folder and documentation.       
                
-            
-              
+                   
+                         
                              
-
-**1. Unzip the linked file.** Drag the testing labels (the one csv file only) under `testlabels` folder, and drag the files containing testing features (csv files only) under `testfeatures` folder. From there, open ipython notebook within a python3 environment.      
+                                              
+**1. Unzip the linked file.** Drag the testing labels (the one csv file only) under `testlabels` folder, and drag the files containing testing features (csv files only) under `testfeatures` folder. From there, open ipython notebook within a python3 environment.            
              
              
 
