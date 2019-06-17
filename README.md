@@ -1,8 +1,7 @@
 # Grab_safety 
 
-Since some files exceed the file size limit set by GitHub, **please download from this link:
-https://drive.google.com/file/d/14zeTMn67k7W1dLmlCVEr-npfOLAKKucn/view?usp=sharing
-**        
+Since some files exceed the file size limit set by GitHub, please download from this link:
+https://drive.google.com/file/d/14zeTMn67k7W1dLmlCVEr-npfOLAKKucn/view?usp=sharing      
         
 for the workable folder and documentation.       
                
