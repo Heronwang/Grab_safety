@@ -2,10 +2,10 @@
 
 Since some files exceed the file size limit set by GitHub, **please download from this link:**    
 
-for the workable folder and documentation.    
-
-
-
+for the workable folder and documentation.       
+               
+            
+              
                              
 
 **1. Unzip the linked file.** Drag the testing labels (the one csv file only) under `testlabels` folder, and drag the files containing testing features (csv files only) under `testfeatures` folder. From there, open ipython notebook within a python3 environment.      
