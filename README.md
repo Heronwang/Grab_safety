@@ -21,18 +21,13 @@ Open the .ipynb file named `final_code.ipynb`. Run the code. Environment require
      
 - **pywt**     
    
-  It is different from the native pywt library. You may need to uninstall it to avoid name conflicts by **pip uninstall pywt**.  Then install the one here by:   
-
-**pip install PyWavelets**   
-
-(or if you have conda: `conda install pywavelets`)      
+  It is different from the native pywt library. You may need to uninstall it to avoid name conflicts by **pip uninstall pywt**.  Then install the one here by: **pip install PyWavelets**   (or if you have conda: `conda install pywavelets`)      
 
 - **peakdetect.py**
     
-  This is a script kindly provided for public use from here https://gist.github.com/antiface/7177333
+  It is under current directory already. This is a script kindly provided for public use from here https://gist.github.com/antiface/7177333
 
-  It is under current directory already. 
-
+  
 - **library versions**    
     
   scipy: 0.19.1    
