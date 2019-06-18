@@ -6,11 +6,11 @@ for the workable folder and documentation.
                                                   
 # Run                                                                          
 
-### 1.     
+### 1）    
 Unzip the linked file.Drag the testing labels (the one csv file only) under `testlabels` folder, and drag the files containing testing features (csv files only) under `testfeatures` folder. From there, open ipython notebook within a python3 environment.            
              
              
-### 2.     
+### 2）     
 Open the .ipynb file named `final_code.ipynb`. Run the code. Environment requirements are listed as below:    
 
 
